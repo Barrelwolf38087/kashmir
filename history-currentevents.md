@@ -1,5 +1,3 @@
-> [Go back](.)
-
 # History & Current Events of Kashmir
 Kashmir has been ruled by foreign powers since 1586. Sunni and Shia Muslims both controlled parts of Kashmir but fought often, offering the third Mughal Emperor Akbar (who ruled 1556-1605) the opportunity to invade Kashmir and capture it in 1586. Later, Afghan rulers also abused the division between the Sunni and Shia sects in Kashmir to gain control over the region. Afghan rule was very repressive for the Kashmiris. Sikh rule, starting in 1819, was also repressive because they discriminated against muslims. During the rebellion of 1857, Kashmir sided with the British.
 
@@ -12,3 +10,5 @@ India has recently cracked down on the area by removing its “privileged status
 During the crackdown, India has arrested politicians & party members in Kashmir. Tourists have been removed and more than 10 thousand troops have been deployed. Public meetings have been banned in towns. The crackdown is to “restore order”, according to India.
 
 India is planning splitting part of Jammu and Kashmir into a separate region of Ladakh off, with both Jammu and Kashmir and Ladakh becoming a union territory and controlled federally.
+
+> [Go back](.)
