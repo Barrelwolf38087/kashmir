@@ -1,8 +1,6 @@
 # Map and Route
 
-## [map](map)
-
-## [Entry](entry)
+## [Map](map)
 
 ## [Day 1](day1)
 
@@ -13,5 +11,3 @@
 ## [Day 4](day4)
 
 ## [Day 5](day5)
-
-## [Exit](exit)
