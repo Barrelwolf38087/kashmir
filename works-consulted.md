@@ -1,3 +1,0 @@
-# Works Consulted
-
-> [Go back](.)
