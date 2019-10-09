@@ -32,7 +32,7 @@ Shaikh, Mustafa. "Nariman House to Be Turned into Memorial for All 26/11 Victims
 Snedden, Christopher. Understanding Kashmir and Kashmiris / Christopher Snedden Hurst & Company London 2015  
 
 
-"SOUTH ASIA | Analysis: The World's Most Dangerous Place?" BBC News, BBC, 23 Mar. 2000, news.bbc.co.uk/2/hi/south_asia/687021.stm.  
+"SOUTH ASIA \| Analysis: The World's Most Dangerous Place?" BBC News, BBC, 23 Mar. 2000, news.bbc.co.uk/2/hi/south_asia/687021.stm.  
 
 
 Zutshi, Chitralekha. Languages of Belonging. Oxford UP, 2018.  
