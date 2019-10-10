@@ -1,4 +1,5 @@
 # Works Cited
+> Note: all the images we used were taken from sources that we used for notes.
 <style>
 p{
   padding-left: 1em;
