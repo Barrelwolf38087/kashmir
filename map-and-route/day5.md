@@ -1,8 +1,8 @@
 # Day 5
 ## Chhatrapati Shivaji Terminus
 ![day5](../day5.png)
-Also 2008 attack
-We will visit Chhatrapati Shivaji Terminus. The attack was caused by tensions between India and Pakistan. (The station was attacked by Pakistan-based terrorist group Lashkar-e-Taiba.) We are going to the memorial.
+Chhatrapati Shivaji Terminus was a site of 2008 Mumbai terrorist attacks. The attack was by Pakistan-based terrorist group Lashkar-e-Taiba, which was not endorsed by Pakistan but still a reflection of the tensions between the two countries. We will be visiting the memorial there.
+
 
 > [Back to Day 4](day4)
 > [Back to Plan Overview](.)
